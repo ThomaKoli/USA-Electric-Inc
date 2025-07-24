@@ -308,7 +308,7 @@ section {
 /* 1. Homepage */
 .hero {
     /* CRITICAL: Replace with professional team photo */
-    background-image: url('https://thomakoli.github.io/images/team-banner.JPG');
+    background-image: url('/images/team-banner.JPG');
     background-size: cover;
     background-position: center;
     color: var(--text-white);
